@@ -1,0 +1,16 @@
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.exe
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.deps.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.runtimeconfig.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.runtimeconfig.dev.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\ref\Aula_Propriedades.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\bin\Debug\net5.0\Aula_Propriedades.pdb
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.csproj.AssemblyReference.cache
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.AssemblyInfoInputs.cache
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.AssemblyInfo.cs
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.csproj.CoreCompileInputs.cache
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\ref\Aula_Propriedades.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.pdb
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Aula_Propriedades\Aula_Propriedades\obj\Debug\net5.0\Aula_Propriedades.genruntimeconfig.cache

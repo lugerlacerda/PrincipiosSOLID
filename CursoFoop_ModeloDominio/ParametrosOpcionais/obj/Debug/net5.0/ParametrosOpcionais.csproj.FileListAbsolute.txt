@@ -1,0 +1,16 @@
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.exe
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.deps.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.runtimeconfig.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.runtimeconfig.dev.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ref\ParametrosOpcionais.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\bin\Debug\net5.0\ParametrosOpcionais.pdb
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ref\ParametrosOpcionais.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.pdb
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\ParametrosOpcionais\obj\Debug\net5.0\ParametrosOpcionais.genruntimeconfig.cache

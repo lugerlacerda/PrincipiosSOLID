@@ -1,0 +1,16 @@
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.exe
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.deps.json
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.runtimeconfig.json
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.runtimeconfig.dev.json
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.dll
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Aula_Classes1.dll
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Aula_Classes1.pdb
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.AssemblyInfoInputs.cache
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.AssemblyInfo.cs
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.csproj.CoreCompileInputs.cache
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.dll
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Aula_Classes1.dll
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.pdb
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.genruntimeconfig.cache
+C:\Luiz\Curso\Udemy\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Aula_Classes1.csproj.AssemblyReference.cache

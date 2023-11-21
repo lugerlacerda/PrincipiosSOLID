@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CursoFoop_ModeloDominio/1.0.0": {
+        "runtime": {
+          "CursoFoop_ModeloDominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoFoop_ModeloDominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

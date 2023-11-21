@@ -1,0 +1,15 @@
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.exe
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.deps.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.runtimeconfig.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.runtimeconfig.dev.json
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\ref\CursoFoop_MetodosExtensao.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\bin\Debug\net5.0\CursoFoop_MetodosExtensao.pdb
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.AssemblyInfoInputs.cache
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.AssemblyInfo.cs
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\ref\CursoFoop_MetodosExtensao.dll
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.pdb
+C:\Luger\Curso\Udemy\PrincipiosSOLID\CursoFoop_ModeloDominio\CursoFoop_MetodosExtensao\obj\Debug\net5.0\CursoFoop_MetodosExtensao.genruntimeconfig.cache

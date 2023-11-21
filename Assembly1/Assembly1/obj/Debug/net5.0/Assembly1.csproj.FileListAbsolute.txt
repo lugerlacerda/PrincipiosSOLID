@@ -1,0 +1,15 @@
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.exe
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.deps.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.runtimeconfig.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.runtimeconfig.dev.json
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\ref\Assembly1.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\bin\Debug\net5.0\Assembly1.pdb
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.AssemblyInfoInputs.cache
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.AssemblyInfo.cs
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.csproj.CoreCompileInputs.cache
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\ref\Assembly1.dll
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.pdb
+C:\Luiz\Curso\Udemy\PrincipiosSOLID\Assembly1\Assembly1\obj\Debug\net5.0\Assembly1.genruntimeconfig.cache
